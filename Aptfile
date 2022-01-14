@@ -1,0 +1,12 @@
+tesseract-ocr
+tesseract-ocr-eng
+libsm6
+libxrender1
+libfontconfig1
+libice6
+libgl1-mesa-glx
+libarchive13
+python3-gi
+libgirepository1.0-dev
+python3-gi-cairo
+
